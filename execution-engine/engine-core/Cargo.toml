@@ -26,7 +26,7 @@ failure = "0.1.6"
 hex_fmt = "0.3.0"
 itertools = "0.8.2"
 lazy_static = "1.4.0"
-linked-hash-map = "0.5.2"
+linked-hash-map = "0.5.3"
 log = "0.4.8"
 mint = { version = "0.3.1", path = "../mint", package = "casperlabs-mint" }
 proof-of-stake = { version = "0.3.1", path = "../proof-of-stake", package = "casperlabs-proof-of-stake" }
